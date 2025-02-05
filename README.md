@@ -8,7 +8,7 @@ The program should include a dictionary, `internet_slang` which stores items in 
 
 ### Example Ouput
 
-```python
+```
 What word would you like to look up? nbd
 nbd: a phrase meaning no big deal
 
